@@ -1,0 +1,268 @@
+node1,node2,color,report_name
+Oil consumption,GHG Emissions (aggregate),green,Trottier
+LNG consumption,GHG Emissions (aggregate),green,Trottier
+Electricity consumption,GHG Emissions (aggregate),green,Trottier
+Biofuels consumption,Oil consumption,green,Trottier
+Oil consumption,GHG Emissions (aggregate),green,Trottier
+Oil demand (global),Oil sand production,green,Trottier
+LNG demand (global),LNG production,green,Trottier
+Freight (trade) volume,GHG Emissions (transport),green,Trottier
+Feedstock (biofuel) supply,GHG Emissions (transport),green,Trottier
+Biofuels production,Oil consumption,green,Trottier
+Oil consumption,GHG Emissions (transport),green,Trottier
+GHG reduction target,Energy intensity,green,Trottier
+Adoption of EV,Energy intensity,green,Trottier
+Sectoral coordination,GHG Emissions (aggregate),green,Trottier
+Electricity consumption,Oil consumption,green,Trottier
+Electricity consumption,LNG consumption,green,Trottier
+Biofuels consumption,Oil consumption,green,Trottier
+Use of electrical appliances,Electricity consumption (residential),green,Trottier
+Electricity consumption (residential),Electricity consumption,green,Trottier
+Hydro electric generation,GHG Emissions (electricity),green,Trottier
+Wind power generation,GHG Emissions (electricity),green,Trottier
+New clean tech generation,GHG Emissions (electricity),green,Trottier
+Adoption of EV,Oil consumption,green,Trottier
+Adoption of EV,Electricity consumption,green,Trottier
+Biofuels consumption (Freight),GHG Emissions (transport),green,Trottier
+Electrification of rail transport,GHG Emissions (transport),green,Trottier
+Inter-province HV infrastructure,Inter-province electricity trade,green,Trottier
+Inter-province electricity trade,Hydro electric generation,green,Trottier
+GHG Emissions (electricity),GHG Emissions (aggregate),green,Trottier
+GHG Emissions (transport),GHG Emissions (aggregate),green,Trottier
+Fuel switching,GHG Emissions (aggregate),blue,DeepDecarbon
+Renewable energy generation,GHG Emissions (aggregate),blue,DeepDecarbon
+Wind power production cost,Wind power generation,blue,DeepDecarbon
+Solar power production cost,Solar power generation,blue,DeepDecarbon
+Innovation capacity (global),Wind power production cost,blue,DeepDecarbon
+Innovation capacity (global),Solar power production cost,blue,DeepDecarbon
+Banning coal/oil-fired generation,Carbon intensity,blue,DeepDecarbon
+Gas-fired generation,LNG demand,blue,DeepDecarbon
+New clean tech generation,Electricity generation,blue,DeepDecarbon
+Electrification policy,Electricity generation,blue,DeepDecarbon
+Tech dev in renewable energy,GHG Emissions (building),blue,DeepDecarbon
+Adoption of EV,GHG Emissions (transport),blue,DeepDecarbon
+Electrification of rail transport,GHG Emissions (transport),blue,DeepDecarbon
+Tech dev in renewable energy,GHG Emissions (oil and gas),blue,DeepDecarbon
+Tech dev in energy storage,GHG Emissions (oil and gas),blue,DeepDecarbon
+Tech dev in energy storage,Oil consumption,blue,DeepDecarbon
+Oil prices (global),Energy tech change (transport),blue,DeepDecarbon
+Energy efficiency policy mandate,Energy tech change (transport),blue,DeepDecarbon
+Oil prices (global),Energy tech change (building),blue,DeepDecarbon
+Energy efficiency policy mandate,Energy tech change (building),blue,DeepDecarbon
+Fuel switching,Energy intensity,blue,DeepDecarbon
+Tech dev in low carbon system,Energy intensity,blue,DeepDecarbon
+Energy efficiency policy mandate,Energy intensity,blue,DeepDecarbon
+Building retrofit incentives,Energy efficiency policy mandate,blue,DeepDecarbon
+Innovation capacity (global),Tech dev in green transport,blue,DeepDecarbon
+Tech dev in green transport,GHG Emissions (transport),blue,DeepDecarbon
+Transport modal shift,Energy intensity (transport),blue,DeepDecarbon
+Adoption of EV,Energy intensity (transport),blue,DeepDecarbon
+LNG consumption,Biofuels consumption,blue,DeepDecarbon
+Oil consumption,Biofuels consumption,blue,DeepDecarbon
+Tech dev in low carbon system,GHG Emissions (oil and gas),blue,DeepDecarbon
+GHG reduction target,GHG Emissions (oil and gas),blue,DeepDecarbon
+GHG reduction target,GHG Emissions (agriculture),blue,DeepDecarbon
+Electrification of rail transport,GHG Emissions (transport),blue,DeepDecarbon
+Adoption of EV,GHG Emissions (transport),blue,DeepDecarbon
+Electrification of light freight transport,GHG Emissions (transport),blue,DeepDecarbon
+Blending target policy mandate,GHG Emissions (transport),blue,DeepDecarbon
+Biofuels production,Blending target policy mandate,blue,DeepDecarbon
+Biofuels production,Tech dev in energy storage,blue,DeepDecarbon
+Tech dev in energy storage,Innovation capacity,blue,DeepDecarbon
+Tech dev in energy storage,Innovation capacity (global),blue,DeepDecarbon
+Tech dev in low carbon system,GHG Emissions (oil and gas),blue,DeepDecarbon
+Oil demand (global),Oil prices (global),red,NEB
+LNG production (USA),Oil prices (global),red,NEB
+Oil sand production,Oil prices (global),red,NEB
+LNG demand (USA/Canada),LNG prices (global),red,NEB
+Population,GDP,red,NEB
+USA Economy,GDP,red,NEB
+Rise of China and Asia,Export,red,NEB
+LNG infrastructures development,GDP,red,NEB
+LNG production,GDP,red,NEB
+Oil sand production,Oil prices (global),red,NEB
+Export,Energy intensity,red,NEB
+USA Economy,LNG production,red,NEB
+USA Economy,Oil sand production,red,NEB
+Developing countries GDP,Export,red,NEB
+Oil infrastructures development,GDP,red,NEB
+Export,GDP,red,NEB
+LNG demand (USA/Canada),LNG demand (USA),red,NEB
+LNG demand (USA/Canada),LNG demand,red,NEB
+LNG production,LNG prices (global),red,NEB
+LNG demand (USA/Canada),LNG production,red,NEB
+Environmental impacts,Social acceptance,orange,Reenergizing
+Social acceptance,Electricity generation,orange,Reenergizing
+Geographic availability,Electricity generation,orange,Reenergizing
+Energy production cost,Electricity generation,orange,Reenergizing
+Solar power production cost,Energy production cost,orange,Reenergizing
+Wind power production cost,Energy production cost,orange,Reenergizing
+Agricultural production,Trucking (heavy freight) load,orange,Reenergizing
+Forest production,Trucking (heavy freight) load,orange,Reenergizing
+Oil sand production,Trucking (heavy freight) load,orange,Reenergizing
+LNG production,Trucking (heavy freight) load,orange,Reenergizing
+Trucking (heavy freight) load,Freight (trade) volume,orange,Reenergizing
+Innovation capacity ,Tech dev in energy efficiency,orange,Reenergizing
+Active mobility,Carbon intensity,orange,Reenergizing
+Active mobility,Energy intensity,orange,Reenergizing
+Tech dev in articifical intelligence,Energy intensity,orange,Reenergizing
+Indigenous knowledge,Energy studies scholarship,orange,Reenergizing
+Indigenous knowledge,Management of natural resources,orange,Reenergizing
+Management of natural resources,GHG Emissions (aggregate),orange,Reenergizing
+Number of people per household,Energy consumption,orange,Reenergizing
+House size,Energy consumption,orange,Reenergizing
+Distance travel,Energy consumption,orange,Reenergizing
+Road speed limit,Energy consumption,orange,Reenergizing
+Number of passenger per vehicle,Energy consumption,orange,Reenergizing
+Use of electrical appliances,Energy consumption,orange,Reenergizing
+Inter-province HV infrastructure,Inter-province electricity trade,orange,Reenergizing
+Inter-province HV infrastructure,Harmonize elect generation load profile,orange,Reenergizing
+Solar power production cost,Large-scale hydropower construction,orange,Reenergizing
+Wind power production cost,Large-scale hydropower construction,orange,Reenergizing
+Climate change,Loss of biodiversity,orange,Reenergizing
+Road infrastructure,Environmental impacts,orange,Reenergizing
+Inter-province HV infrastructure,Environmental impacts,orange,Reenergizing
+Solar power production cost,Community-owned energy system,orange,Reenergizing
+Wind power production cost,Community-owned energy system,orange,Reenergizing
+Feedstock (biofuel) supply,Agricultural production,orange,Reenergizing
+Agricultural production,Food prices,orange,Reenergizing
+Food prices,Agricultural production,orange,Reenergizing
+Biorefinery strategy,Forest production,orange,Reenergizing
+Forest production,Feedstock (biofuel) supply,orange,Reenergizing
+Waste to energy tech dev,Biogas production,orange,Reenergizing
+Biogas production,GHG Emissions (aggregate),orange,Reenergizing
+Biogas production,Trucking (heavy freight) load,orange,Reenergizing
+Biofuels production,Trucking (heavy freight) load,orange,Reenergizing
+Trucking (heavy freight) load,GHG Emissions (transport),orange,Reenergizing
+Oil sand production,Labor force,orange,Reenergizing
+LNG production,Labor force,orange,Reenergizing
+Oil sand production,Export,orange,Reenergizing
+LNG production,Export,orange,Reenergizing
+Innovation capacity ,GDP,orange,Reenergizing
+Income per capita,GDP,orange,Reenergizing
+Innovation capacity ,Educational attainment,orange,Reenergizing
+Innovation capacity ,Income per capita,orange,Reenergizing
+R&D funding from government,Innovation capacity ,orange,Reenergizing
+Enterprenuership in private sector,Tech investment,orange,Reenergizing
+Tech dev in energy storage,Energy intensity,orange,Reenergizing
+Tech dev in energy storage,Biorefinery strategy,orange,Reenergizing
+Agricultural production,Biorefinery strategy,orange,Reenergizing
+Community-owned energy system,Tech investment,orange,Reenergizing
+Community-owned energy system,Tech dev in renewable energy,orange,Reenergizing
+Innovation capacity ,Labor force,orange,Reenergizing
+Innovation capacity ,Economic productivity,orange,Reenergizing
+Export,Labor force,orange,Reenergizing
+Transition to decarbonized economy,GDP,orange,Reenergizing
+Agricultural production,Transition to decarbonized economy,orange,Reenergizing
+Forest production,Transition to decarbonized economy,orange,Reenergizing
+High-tech manufacturing production,Transition to decarbonized economy,orange,Reenergizing
+Fishery production,Transition to decarbonized economy,orange,Reenergizing
+Biotech production,Transition to decarbonized economy,orange,Reenergizing
+Travel and tourism services,Transition to decarbonized economy,orange,Reenergizing
+Institutions framework,Low carbon energy governance,orange,Reenergizing
+Sectoral coordination,Low carbon energy governance,orange,Reenergizing
+Gov budget for energy transition,Low carbon energy governance,orange,Reenergizing
+Clean energy for indigenous community,Low carbon energy governance,orange,Reenergizing
+Multilevel governance,Low carbon energy governance,orange,Reenergizing
+Monitoring process,Low carbon energy governance,orange,Reenergizing
+Participatory planning,Social acceptance,orange,Reenergizing
+Participatory visioning,Social acceptance,orange,Reenergizing
+Social acceptance,Renewable energy generation,orange,Reenergizing
+Sustainable social change,Transition to decarbonized economy,orange,Reenergizing
+Electrification of light freight transport,GHG Emissions (transport),orange,Reenergizing
+Partnership with automotive industry,Tech dev in green transport (freight),orange,Reenergizing
+Gov budget for energy transition,Tech dev in green transport (rail),orange,Reenergizing
+Intercity (people) mobility,Rail infrastrcuture,orange,Reenergizing
+Intercity (people) mobility,Electrification of rail transport,orange,Reenergizing
+Adoption of EV,Tech dev in green transport,orange,Reenergizing
+Tech dev in green transport,Emerging green transport businesses,orange,Reenergizing
+Regulatory standard for green transport,Emerging green transport businesses,orange,Reenergizing
+Shared mobility,GHG Emissions (transport),orange,Reenergizing
+Shared mobility,Distance travel,orange,Reenergizing
+Urbanization,Energy consumption,orange,Reenergizing
+Urban green infrastructure,Energy consumption,orange,Reenergizing
+Active mobility,Energy consumption,orange,Reenergizing
+Urban green infrastructure,Active mobility,orange,Reenergizing
+Wooden buildings,Carbon sink,orange,Reenergizing
+Wooden buildings,GHG Emissions (building),orange,Reenergizing
+District cooling/heating,GHG Emissions (building),orange,Reenergizing
+Oil consumption,Health issues for indigenous communities,orange,Reenergizing
+Renewable energy generation,Resilience of indigenous communities,orange,Reenergizing
+Renewable energy generation,Employment for indigenous communities,orange,Reenergizing
+Tech dev in low carbon system,Oil sand production,orange,Reenergizing
+Tech dev in low carbon system,LNG production,orange,Reenergizing
+Population (global),Mass consumption (global),purple,WEC
+Labor force (global),Mass consumption (global),purple,WEC
+Population (global),Growing middle class (global),purple,WEC
+Labor force (global),Growing middle class (global),purple,WEC
+Growing middle class (global),Energy intensity (global),purple,WEC
+Rise of China and Asia,GDP (global),purple,WEC
+Tech dev in ICT (global),Developing countries GDP,purple,WEC
+Tech dev in ICT (global),Globalization,purple,WEC
+Population (global),Energy demand (global),purple,WEC
+GDP (global),Energy demand (global),purple,WEC
+GDP,Energy demand,purple,WEC
+Tech dev in low carbon system (global),Carbon intensity (global),purple,WEC
+Energy value chain (global),Energy demand (global),purple,WEC
+Environmental consciousness (global),Adoption of EV (global),purple,WEC
+Environmental consciousness (global),Electrification of rail transport (global),purple,WEC
+Environmental consciousness (global),Tech dev in green transport (global),purple,WEC
+Adoption of EV (global),Electricity demand (global),purple,WEC
+Environmental consciousness (global),Tech dev in energy efficiency (global),purple,WEC
+Urbanization (global),Electricity demand (global),purple,WEC
+Gasification of heavy freight transport (global),LNG demand (global),purple,WEC
+Gasification of marine feeder transport (global),LNG demand (global),purple,WEC
+Global environmental institution,Carbon intensity (global),purple,WEC
+GHG reduction target,Carbon intensity (global),purple,WEC
+Renewable energy generation (global),GHG Emissions (global),purple,WEC
+Adoption of EV (global),GHG Emissions (global),purple,WEC
+Carbon intensity (global),GHG Emissions (global),purple,WEC
+Fuel switching (global),GHG Emissions (global),purple,WEC
+Fuel switching (global),LNG demand (global),purple,WEC
+Health risk awareness (global),Nuclear power generation (global),purple,WEC
+Health risk awareness (global),Renewable energy generation (global),purple,WEC
+Geopolitical tensions,GDP (global),purple,WEC
+Geopolitical tensions,Oil prices (global),purple,WEC
+Geopolitical tensions,LNG prices (global),purple,WEC
+Geopolitical tensions,Globalization,purple,WEC
+Global institutions,Geopolitical tensions,purple,WEC
+Oil production (global),Oil demand (global),purple,WEC
+Stability of Middle Eastern region,Geopolitical tensions,purple,WEC
+Population (global),Labor force (global),purple,WEC
+GDP (global),Energy demand (global),purple,WEC
+Economic investment (global),Energy demand (global),purple,WEC
+Mass consumption (global),Energy demand (global),purple,WEC
+Rate of energy tech change (global),Energy production cost (global),purple,WEC
+Tech dev in green transport (global),Innovation capacity (global),purple,WEC
+Tech dev in low carbon system (global),Innovation capacity (global),purple,WEC
+Tech dev in energy storage (global),Innovation capacity (global),purple,WEC
+Tech dev in renewable energy (global),Innovation capacity (global),purple,WEC
+Tech dev in machine learning (global),Innovation capacity (global),purple,WEC
+Tech dev in data analytics (global),Innovation capacity (global),purple,WEC
+Tech dev in articifical intelligence (global),Innovation capacity (global),purple,WEC
+Tech dev in ICT (global),Innovation capacity (global),purple,WEC
+Tech dev in energy efficiency (global),Innovation capacity (global),purple,WEC
+Innovation capacity (global),Tech dev in green transport (global),purple,WEC
+Innovation capacity (global),Tech dev in low carbon system (global),purple,WEC
+Innovation capacity (global),Tech dev in energy storage (global),purple,WEC
+Innovation capacity (global),Tech dev in renewable energy (global),purple,WEC
+Innovation capacity (global),Tech dev in machine learning (global),purple,WEC
+Innovation capacity (global),Tech dev in data analytics (global),purple,WEC
+Innovation capacity (global),Tech dev in ICT (global),purple,WEC
+Innovation capacity (global),Tech dev in energy efficiency (global),purple,WEC
+Environmental consciousness (global),Global environmental institution,purple,WEC
+Global environmental institution,GHG reduction target,purple,WEC
+Rise of China and Asia,Tech investment (global),purple,WEC
+Rise of China and Asia,Growing middle class (global),purple,WEC
+Innovation capacity (global),Economic productivity (global),purple,WEC
+Economic productivity (global),Labor force (global),purple,WEC
+Labor force (global),Educational attainment (global),purple,WEC
+Economic productivity (global),GDP (global),purple,WEC
+Rate of energy tech change (global),GDP (global),purple,WEC
+Innovation capacity (global),GDP (global),purple,WEC
+Tech dev in ICT (global),Economic productivity (global),purple,WEC
+Geopolitical tensions,GDP (global),purple,WEC
+Geopolitical tensions,Technology transfer (global),purple,WEC
+Environmental consciousness (global),Tech dev in low carbon system (global),purple,WEC
+GDP (global),Tech investment (global),purple,WEC
+Tech investment (global),Rate of energy tech change (global),purple,WEC

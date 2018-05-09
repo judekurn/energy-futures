@@ -12,3 +12,5 @@
 http://judekurn.github.io/energy-futures/day_0.slides#/
 
 http://judekurn.github.io/energy_futures/energy_slides.ipynb#/
+
+http://nbviewer.jupyter.org/format/slides/github/judekurn/energy-futures/blob/master/docs/energy_slides.ipynb#/

@@ -4,4 +4,4 @@ The purpose of this study is to produce scenarios for energy futures for Canada.
 
 http://judekurn.github.io/energy_futures/docs/energy_slides.slides#/
 
-http://judekurn.github.io/energy-futures/docs/energy_slides
+http://judekurn.github.io/energy-futures/docs/day_0.slides#/

@@ -1,0 +1,267 @@
+node1,node2,report_name
+Oil consumption,GHG Emissions (aggregate),Trottier
+LNG consumption,GHG Emissions (aggregate),Trottier
+Electricity consumption,GHG Emissions (aggregate),Trottier
+Biofuels consumption,Oil consumption,Trottier
+Oil consumption,GHG Emissions (aggregate),Trottier
+Oil demand (global),Oil sand production,Trottier
+LNG demand (global),LNG production,Trottier
+Freight (trade) volume,GHG Emissions (transport),Trottier
+Feedstock (biofuel) supply,GHG Emissions (transport),Trottier
+Biofuels production,Oil consumption,Trottier
+Oil consumption,GHG Emissions (transport),Trottier
+GHG reduction target,Energy intensity,Trottier
+Adoption of EV,Energy intensity,Trottier
+Sectoral coordination,GHG Emissions (aggregate),Trottier
+Electricity consumption,Oil consumption,Trottier
+Electricity consumption,LNG consumption,Trottier
+Biofuels consumption,Oil consumption,Trottier
+Use of electrical appliances,Electricity consumption (residential),Trottier
+Electricity consumption (residential),Electricity consumption,Trottier
+Hydro electric generation,GHG Emissions (electricity),Trottier
+Wind power generation,GHG Emissions (electricity),Trottier
+New clean tech generation,GHG Emissions (electricity),Trottier
+Adoption of EV,Oil consumption,Trottier
+Adoption of EV,Electricity consumption,Trottier
+Biofuels consumption (Freight),GHG Emissions (transport),Trottier
+Electrification of rail transport,GHG Emissions (transport),Trottier
+Inter-province HV infrastructure,Inter-province electricity trade,Trottier
+Inter-province electricity trade,Hydro electric generation,Trottier
+GHG Emissions (electricity),GHG Emissions (aggregate),Trottier
+GHG Emissions (transport),GHG Emissions (aggregate),Trottier
+Fuel switching,GHG Emissions (aggregate),DeepDecarbon
+Renewable energy generation,GHG Emissions (aggregate),DeepDecarbon
+Wind power production cost,Wind power generation,DeepDecarbon
+Solar power production cost,Solar power generation,DeepDecarbon
+Innovation capacity (global),Wind power production cost,DeepDecarbon
+Innovation capacity (global),Solar power production cost,DeepDecarbon
+Banning coal/oil-fired generation,Carbon intensity,DeepDecarbon
+Gas-fired generation,LNG demand,DeepDecarbon
+New clean tech generation,Electricity generation,DeepDecarbon
+Electrification policy,Electricity generation,DeepDecarbon
+Tech dev in renewable energy,GHG Emissions (building),DeepDecarbon
+Adoption of EV,GHG Emissions (transport),DeepDecarbon
+Electrification of rail transport,GHG Emissions (transport),DeepDecarbon
+Tech dev in renewable energy,GHG Emissions (oil and gas),DeepDecarbon
+Tech dev in energy storage,GHG Emissions (oil and gas),DeepDecarbon
+Tech dev in energy storage,Oil consumption,DeepDecarbon
+Oil prices (global),Energy tech change (transport),DeepDecarbon
+Energy efficiency policy mandate,Energy tech change (transport),DeepDecarbon
+Oil prices (global),Energy tech change (building),DeepDecarbon
+Energy efficiency policy mandate,Energy tech change (building),DeepDecarbon
+Fuel switching,Energy intensity,DeepDecarbon
+Tech dev in low carbon system,Energy intensity,DeepDecarbon
+Energy efficiency policy mandate,Energy intensity,DeepDecarbon
+Building retrofit incentives,Energy efficiency policy mandate,DeepDecarbon
+Innovation capacity (global),Tech dev in green transport,DeepDecarbon
+Tech dev in green transport,GHG Emissions (transport),DeepDecarbon
+Transport modal shift,Energy intensity (transport),DeepDecarbon
+Adoption of EV,Energy intensity (transport),DeepDecarbon
+LNG consumption,Biofuels consumption,DeepDecarbon
+Oil consumption,Biofuels consumption,DeepDecarbon
+Tech dev in low carbon system,GHG Emissions (oil and gas),DeepDecarbon
+GHG reduction target,GHG Emissions (oil and gas),DeepDecarbon
+GHG reduction target,GHG Emissions (agriculture),DeepDecarbon
+Electrification of rail transport,GHG Emissions (transport),DeepDecarbon
+Adoption of EV,GHG Emissions (transport),DeepDecarbon
+Electrification of light freight transport,GHG Emissions (transport),DeepDecarbon
+Blending target policy mandate,GHG Emissions (transport),DeepDecarbon
+Biofuels production,Blending target policy mandate,DeepDecarbon
+Biofuels production,Tech dev in energy storage,DeepDecarbon
+Tech dev in energy storage,Innovation capacity,DeepDecarbon
+Tech dev in energy storage,Innovation capacity (global),DeepDecarbon
+Tech dev in low carbon system,GHG Emissions (oil and gas),DeepDecarbon
+Oil demand (global),Oil prices (global),NEB
+LNG production (USA),Oil prices (global),NEB
+Oil sand production,Oil prices (global),NEB
+LNG demand (USA/Canada),LNG prices (global),NEB
+Population,GDP,NEB
+USA Economy,GDP,NEB
+Rise of China and Asia,Export,NEB
+LNG infrastructures development,GDP,NEB
+LNG production,GDP,NEB
+Oil sand production,Oil prices (global),NEB
+Export,Energy intensity,NEB
+USA Economy,LNG production,NEB
+USA Economy,Oil sand production,NEB
+Developing countries GDP,Export,NEB
+Oil infrastructures development,GDP,NEB
+Export,GDP,NEB
+LNG demand (USA/Canada),LNG demand (USA),NEB
+LNG demand (USA/Canada),LNG demand,NEB
+LNG production,LNG prices (global),NEB
+LNG demand (USA/Canada),LNG production,NEB
+Environmental impacts,Social acceptance,Reenergizing
+Social acceptance,Electricity generation,Reenergizing
+Geographic availability,Electricity generation,Reenergizing
+Energy production cost,Electricity generation,Reenergizing
+Solar power production cost,Energy production cost,Reenergizing
+Wind power production cost,Energy production cost,Reenergizing
+Agricultural production,Trucking (heavy freight) load,Reenergizing
+Forest production,Trucking (heavy freight) load,Reenergizing
+Oil sand production,Trucking (heavy freight) load,Reenergizing
+LNG production,Trucking (heavy freight) load,Reenergizing
+Trucking (heavy freight) load,Freight (trade) volume,Reenergizing
+Innovation capacity,Tech dev in energy efficiency,Reenergizing
+Active mobility,Carbon intensity,Reenergizing
+Active mobility,Energy intensity,Reenergizing
+Tech dev in artifical intelligence,Energy intensity,Reenergizing
+Indigenous knowledge,Energy studies scholarship,Reenergizing
+Indigenous knowledge,Management of natural resources,Reenergizing
+Management of natural resources,GHG Emissions (aggregate),Reenergizing
+Number of people per household,Energy consumption,Reenergizing
+House size,Energy consumption,Reenergizing
+Distance travel,Energy consumption,Reenergizing
+Road speed limit,Energy consumption,Reenergizing
+Number of passenger per vehicle,Energy consumption,Reenergizing
+Use of electrical appliances,Energy consumption,Reenergizing
+Inter-province HV infrastructure,Inter-province electricity trade,Reenergizing
+Inter-province HV infrastructure,Harmonize elect generation load profile,Reenergizing
+Solar power production cost,Large-scale hydropower construction,Reenergizing
+Wind power production cost,Large-scale hydropower construction,Reenergizing
+Climate change,Loss of biodiversity,Reenergizing
+Road infrastructure,Environmental impacts,Reenergizing
+Inter-province HV infrastructure,Environmental impacts,Reenergizing
+Solar power production cost,Community-owned energy system,Reenergizing
+Wind power production cost,Community-owned energy system,Reenergizing
+Feedstock (biofuel) supply,Agricultural production,Reenergizing
+Agricultural production,Food prices,Reenergizing
+Food prices,Agricultural production,Reenergizing
+Biorefinery strategy,Forest production,Reenergizing
+Forest production,Feedstock (biofuel) supply,Reenergizing
+Waste to energy tech dev,Biogas production,Reenergizing
+Biogas production,GHG Emissions (aggregate),Reenergizing
+Biogas production,Trucking (heavy freight) load,Reenergizing
+Biofuels production,Trucking (heavy freight) load,Reenergizing
+Trucking (heavy freight) load,GHG Emissions (transport),Reenergizing
+Oil sand production,Labor force,Reenergizing
+LNG production,Labor force,Reenergizing
+Oil sand production,Export,Reenergizing
+LNG production,Export,Reenergizing
+Innovation capacity,GDP,Reenergizing
+Income per capita,GDP,Reenergizing
+Innovation capacity,Educational attainment,Reenergizing
+Innovation capacity,Income per capita,Reenergizing
+R&D funding from government,Innovation capacity,Reenergizing
+Enterprenuership in private sector,Tech investment,Reenergizing
+Tech dev in energy storage,Energy intensity,Reenergizing
+Tech dev in energy storage,Biorefinery strategy,Reenergizing
+Agricultural production,Biorefinery strategy,Reenergizing
+Community-owned energy system,Tech investment,Reenergizing
+Community-owned energy system,Tech dev in renewable energy,Reenergizing
+Innovation capacity,Labor force,Reenergizing
+Innovation capacity,Economic productivity,Reenergizing
+Export,Labor force,Reenergizing
+Transition to decarbonized economy,GDP,Reenergizing
+Agricultural production,Transition to decarbonized economy,Reenergizing
+Forest production,Transition to decarbonized economy,Reenergizing
+High-tech manufacturing production,Transition to decarbonized economy,Reenergizing
+Fishery production,Transition to decarbonized economy,Reenergizing
+Biotech production,Transition to decarbonized economy,Reenergizing
+Travel and tourism services,Transition to decarbonized economy,Reenergizing
+Institutions framework,Low carbon energy governance,Reenergizing
+Sectoral coordination,Low carbon energy governance,Reenergizing
+Gov budget for energy transition,Low carbon energy governance,Reenergizing
+Clean energy for indigenous community,Low carbon energy governance,Reenergizing
+Multilevel governance,Low carbon energy governance,Reenergizing
+Monitoring process,Low carbon energy governance,Reenergizing
+Participatory planning,Social acceptance,Reenergizing
+Participatory visioning,Social acceptance,Reenergizing
+Social acceptance,Renewable energy generation,Reenergizing
+Sustainable social change,Transition to decarbonized economy,Reenergizing
+Electrification of light freight transport,GHG Emissions (transport),Reenergizing
+Partnership with automotive industry,Tech dev in green transport (freight),Reenergizing
+Gov budget for energy transition,Tech dev in green transport (rail),Reenergizing
+Intercity (people) mobility,Rail infrastructure,Reenergizing
+Intercity (people) mobility,Electrification of rail transport,Reenergizing
+Adoption of EV,Tech dev in green transport,Reenergizing
+Tech dev in green transport,Emerging green transport businesses,Reenergizing
+Regulatory standard for green transport,Emerging green transport businesses,Reenergizing
+Shared mobility,GHG Emissions (transport),Reenergizing
+Shared mobility,Distance travel,Reenergizing
+Urbanization,Energy consumption,Reenergizing
+Urban green infrastructure,Energy consumption,Reenergizing
+Active mobility,Energy consumption,Reenergizing
+Urban green infrastructure,Active mobility,Reenergizing
+Wooden buildings,Carbon sink,Reenergizing
+Wooden buildings,GHG Emissions (building),Reenergizing
+District cooling/heating,GHG Emissions (building),Reenergizing
+Oil consumption,Health issues for indigenous communities,Reenergizing
+Renewable energy generation,Resilience of indigenous communities,Reenergizing
+Renewable energy generation,Employment for indigenous communities,Reenergizing
+Tech dev in low carbon system,Oil sand production,Reenergizing
+Tech dev in low carbon system,LNG production,Reenergizing
+Population (global),Mass consumption (global),WEC
+Labor force (global),Mass consumption (global),WEC
+Population (global),Growing middle class (global),WEC
+Labor force (global),Growing middle class (global),WEC
+Growing middle class (global),Energy intensity (global),WEC
+Rise of China and Asia,GDP (global),WEC
+Tech dev in ICT (global),Developing countries GDP,WEC
+Tech dev in ICT (global),Globalization,WEC
+Population (global),Energy demand (global),WEC
+GDP (global),Energy demand (global),WEC
+Tech dev in low carbon system (global),Carbon intensity (global),WEC
+Energy value chain (global),Energy demand (global),WEC
+Environmental consciousness (global),Adoption of EV (global),WEC
+Environmental consciousness (global),Electrification of rail transport (global),WEC
+Environmental consciousness (global),Tech dev in green transport (global),WEC
+Adoption of EV (global),Electricity demand (global),WEC
+Environmental consciousness (global),Tech dev in energy efficiency (global),WEC
+Urbanization (global),Electricity demand (global),WEC
+Gasification of heavy freight transport (global),LNG demand (global),WEC
+Gasification of marine feeder transport (global),LNG demand (global),WEC
+Global environmental institution,Carbon intensity (global),WEC
+GHG reduction target,Carbon intensity (global),WEC
+Renewable energy generation (global),GHG Emissions (global),WEC
+Adoption of EV (global),GHG Emissions (global),WEC
+Carbon intensity (global),GHG Emissions (global),WEC
+Fuel switching (global),GHG Emissions (global),WEC
+Fuel switching (global),LNG demand (global),WEC
+Health risk awareness (global),Nuclear power generation (global),WEC
+Health risk awareness (global),Renewable energy generation (global),WEC
+Geopolitical tensions,GDP (global),WEC
+Geopolitical tensions,Oil prices (global),WEC
+Geopolitical tensions,LNG prices (global),WEC
+Geopolitical tensions,Globalization,WEC
+Global institutions,Geopolitical tensions,WEC
+Oil production (global),Oil demand (global),WEC
+Stability of Middle Eastern region,Geopolitical tensions,WEC
+Population (global),Labor force (global),WEC
+GDP (global),Energy demand (global),WEC
+Economic investment (global),Energy demand (global),WEC
+Mass consumption (global),Energy demand (global),WEC
+Rate of energy tech change (global),Energy production cost (global),WEC
+Tech dev in green transport (global),Innovation capacity (global),WEC
+Tech dev in low carbon system (global),Innovation capacity (global),WEC
+Tech dev in energy storage (global),Innovation capacity (global),WEC
+Tech dev in renewable energy (global),Innovation capacity (global),WEC
+Tech dev in machine learning (global),Innovation capacity (global),WEC
+Tech dev in data analytics (global),Innovation capacity (global),WEC
+Tech dev in articifical intelligence (global),Innovation capacity (global),WEC
+Tech dev in ICT (global),Innovation capacity (global),WEC
+Tech dev in energy efficiency (global),Innovation capacity (global),WEC
+Innovation capacity (global),Tech dev in green transport (global),WEC
+Innovation capacity (global),Tech dev in low carbon system (global),WEC
+Innovation capacity (global),Tech dev in energy storage (global),WEC
+Innovation capacity (global),Tech dev in renewable energy (global),WEC
+Innovation capacity (global),Tech dev in machine learning (global),WEC
+Innovation capacity (global),Tech dev in data analytics (global),WEC
+Innovation capacity (global),Tech dev in ICT (global),WEC
+Innovation capacity (global),Tech dev in energy efficiency (global),WEC
+Environmental consciousness (global),Global environmental institution,WEC
+Global environmental institution,GHG reduction target,WEC
+Rise of China and Asia,Tech investment (global),WEC
+Rise of China and Asia,Growing middle class (global),WEC
+Innovation capacity (global),Economic productivity (global),WEC
+Economic productivity (global),Labor force (global),WEC
+Labor force (global),Educational attainment (global),WEC
+Economic productivity (global),GDP (global),WEC
+Rate of energy tech change (global),GDP (global),WEC
+Innovation capacity (global),GDP (global),WEC
+Tech dev in ICT (global),Economic productivity (global),WEC
+Geopolitical tensions,GDP (global),WEC
+Geopolitical tensions,Technology transfer (global),WEC
+Environmental consciousness (global),Tech dev in low carbon system (global),WEC
+GDP (global),Tech investment (global),WEC
+Tech investment (global),Rate of energy tech change (global),WEC
